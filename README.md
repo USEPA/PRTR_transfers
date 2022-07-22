@@ -87,7 +87,7 @@ conda env create -n PRTR -f environment.yml
 
 The above command is written assuming that you are in the folder containing .yml file, i.e. the root folder PRTR_transfers. 
 
-#### 2.1.2. Ovoiding ModuleNotFoundError and ImportError<sup>[1](#myfootnote1)</sup>
+#### 2.1.2. Avoiding ModuleNotFoundError and ImportError<sup>[1](#myfootnote1)</sup>
 
 If you are working as a Python developer, you should avoid both ```ModuleNotFoundError``` and ```ImportError``` (see the following [link](https://towardsdatascience.com/how-to-fix-modulenotfounderror-and-importerror-248ce5b69b1c)). Thus, follow the steps below to solve the above mentioned problems:
 

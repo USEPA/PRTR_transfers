@@ -193,4 +193,4 @@ You can use each .py file in the data engineering module separately. However, th
 
 ## 4. Notes
 
-<a name="myfootnote1">1</a>: If you have troubles with this step, update ```updatedb```  by running ```sudo updatedb```.
+<a name="myfootnote1">1</a>: If you have trouble with this step, update ```updatedb```  by running ```sudo updatedb```.
